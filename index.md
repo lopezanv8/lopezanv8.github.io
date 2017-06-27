@@ -1,37 +1,107 @@
-## Welcome to GitHub Pages
+<head>
+  <title> Epsilon Pi Chapter </title>
+  <img src="" img align: left; >
+  <h1 > Epsilon Pi Chapter</h1>
 
-You can use the [editor on GitHub](https://github.com/lopezanv8/lopezanv8.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  <form>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <input type="text" name="search" placeholder="search.." style="float:right"><br/>
+    <input type="submit" value="submit" style="float:right"><br/>
 
-### Markdown
+  </form>
+  <style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  input[type=text]{
+    text-align: center;
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
 
-```markdown
-Syntax highlighted code block
+  body {
+    background-color: gray;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
 
-# Header 1
-## Header 2
-### Header 3
+  }
+  li {
+    float: left;
 
-- Bulleted
-- List
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
 
-1. Numbered
-2. List
+  li a:hover {
+    background-color: #111;
+  }
+  p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
 
-**Bold** and _Italic_ and `Code` text
+  }
+  h2 {
+    text-align: center;
+  }
+  img {
+    align-self: center;
+  }
+  </style>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+</head>
+<ul>
+  <li><a href="">Home</a></li>
+  <li><a href="">About</a></li>
+  <li><a href="">Chapter History</a></li>
+  <li><a href="">Scholarship</a></li>
+  <li><a href="">Contact Us</a></li>
+</ul>
+<body>
+  <h1> Welcome to Michigan State University </h1>
+  <h2> Epsilon Pi Chapter</h2>
+  <p> <img src="http://i.imgur.com/qOaX2pKl.jpg" >
+    <br/>
+     <br/>
+  We, the sisters of Lambda Theta Alpha Latin Sorority, Inc. would like to welcome
+you to Michigan State University. As the sisters of the First and Largest Latina
+sorority in the nation, we are dedicated to the continual advancement of the Universal
+Women in higher academia.</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lopezanv8/lopezanv8.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<div style="display:block;text-align:left">
+<h2><span style="color: black">Meet the New LTAs</span></h2>
+<hr>
+<br>
+<div style="display:block;text-align:left;"><a imageanchor="1"><img align="center" src="http://i.imgur.com/qOaX2pKm.jpg" border="0"></a><br>
+<br>
+<h3 style="color: maroon"> Line 5 - <i>"La Fuerza de Unidad"</i> </h3>
+#1 - FirstName LastName <br/>
+#2 - FirstName LastName <br/>
+#3 - FirstName LastName <br/>
+#4 - FirstName LastName <br/>
+#5 - FirstName LastName <br/>
+</div>
+</div>
+<br>
+<br>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
